@@ -55,7 +55,7 @@
 <a href = 'https://www.linkedin.com/in/azygmanska/'> <img width = '40px' align= 'center' src="https://raw.githubusercontent.com/ZygaDev/ZygaDev/main/5296501_linkedin_network_linkedin%20logo_icon.png"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href = 'https://www.github.com/ZygaDev'> <img width = '40px' align= 'center' src="https://raw.githubusercontent.com/ZygaDev/ZygaDev/main/4202098_github_code_developer_logo_icon.png"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href = 'mailto:amandazygmanska@gmail.com'> <img width = '40px' align= 'center' src="https://raw.githubusercontent.com/ZygaDev/ZygaDev/main/7101527_gmail_email_mail_icon.png"/></a>
-
+<a href = 'https://amandazygmanska.pl/'> <img width = '40px' align= 'center' src="https://raw.githubusercontent.com/ZygaDev/ZygaDev/main/2305615_address_globe_internet_network_site_icon.png"/></a>
 <br> <br>
 
 
