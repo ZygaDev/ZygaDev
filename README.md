@@ -41,7 +41,7 @@
 <a href= https://github.com/ZygaDev?tab=repositories&q=&type=&language=javascript&sort= > <img width='50px' src ='https://raw.githubusercontent.com/ZygaDev/ZygaDev/main/652581_code_command_develop_javascript_language_icon.png'> </a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href= https://github.com/ZygaDev?tab=repositories&q=&type=&language=html&sort= > <img width='50px' src ='https://raw.githubusercontent.com/ZygaDev/ZygaDev/main/3069649_circle_html5_programming_round%20icon_icon.png'> </a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href= https://github.com/ZygaDev?tab=repositories&q=&type=&language=css&sort= > <img width='50px' src ='https://raw.githubusercontent.com/ZygaDev/ZygaDev/main/652584_code_css_develop_language_layout_icon.png'> </a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href= https://github.com/ZygaDev?tab=repositories&q=&type=&language=bootstrap&sort= > <img width='50px' src ='https://raw.githubusercontent.com/ZygaDev/ZygaDev/b29eb23d88b4e14a33d3deafc937b5df8b3c22d7/bootstrap.svg'> </a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href= https://github.com/ZygaDev?tab=repositories&q=&type=&language=bootstrap&sort= > <img width='50px' src ='https://raw.githubusercontent.com/ZygaDev/ZygaDev/b29eb23d88b4e14a33d3deafc937b5df8b3c22d7/bootstrap.svg'> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href= https://github.com/ZygaDev?tab=repositories&q=&type=&language=php&sort= > <img width='50px' src ='https://raw.githubusercontent.com/ZygaDev/ZygaDev/main/652580_code_command_develop_language_php_icon.png'> </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
  <br>
